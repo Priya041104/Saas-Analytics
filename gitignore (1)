@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (uncomment to exclude data from GitHub)
+# Data/
+# *.xlsx
+# *.csv
+
+# Word temp files
+~$*.docx
